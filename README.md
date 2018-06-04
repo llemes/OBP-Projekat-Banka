@@ -1,5 +1,5 @@
 # OBP Projekat: Banka
-Oracle baza podataka za banku rađena u sklopu predmeta Osnove Baza Podataka. ERD se nalazi u [dokumentaciji](https://github.com/llemes/OBP-Projekat-Banka/blob/master/dokumentacija.pdf).
+Oracle baza podataka za banku rađena u sklopu predmeta Osnove Baza Podataka. ERD se nalazi u [dokumentaciji](https://github.com/llemes/OBP-Projekat-Banka/blob/master/Dokumentacija.pdf).
 
 <!-- toc -->
 - [Kreiranje baze](#kreiranje-baze)
