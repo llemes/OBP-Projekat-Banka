@@ -1,5 +1,5 @@
 # OBP Projekat: Banka
-Oracle baza podataka za banku rađena u sklopu predmeta Osnove Baza Podataka. 
+Oracle baza podataka za banku rađena u sklopu predmeta Osnove Baza Podataka. ERD se nalazi u [dokumentaciji](https://github.com/llemes/OBP-Projekat-Banka/blob/master/dokumentacija.pdf).
 
 <!-- toc -->
 - [Kreiranje baze](#kreiranje-baze)
@@ -40,9 +40,6 @@ Potrebno je pokrenuti queryje sljedećim redoslijedom:
 - Sekvence: [sekvence.sql](https://github.com/llemes/OBP-Projekat-Banka/tree/master/Baza/sekvence.sql)
 - Triggeri: [triggeri.sql](https://github.com/llemes/OBP-Projekat-Banka/tree/master/Baza/triggeri.sql)
 - Punjenje baze: [punjenjeBaze.sql](https://github.com/llemes/OBP-Projekat-Banka/tree/master/Baza/punjenjeBaze.sql)
-
-## Korištenje baze
-Ovo je uputstvo navedeno i u [dokumentaciji](https://github.com/llemes/OBP-Projekat-Banka/blob/master/dokumentacija.pdf).
 
 ## Tabele
 
